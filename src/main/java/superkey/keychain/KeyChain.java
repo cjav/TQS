@@ -35,7 +35,7 @@ public class KeyChain {
         return chain ;
     }
 
-    KeyChain(File file, CipherTool cipher) {
+    private KeyChain(File file, CipherTool cipher) {
         this.cipher = cipher;
         this.targetFile = file;
     }

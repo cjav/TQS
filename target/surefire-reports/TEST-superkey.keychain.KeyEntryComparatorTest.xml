@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-<testsuite tests="1" failures="0" name="superkey.keychain.KeyEntryComparatorTest" time="0.651" errors="0" skipped="0">
+<testsuite tests="1" failures="0" name="superkey.keychain.KeyEntryComparatorTest" time="1.745" errors="0" skipped="0">
   <properties>
     <property name="java.runtime.name" value="Java(TM) SE Runtime Environment"/>
     <property name="sun.boot.library.path" value="/home/catarina/jdk1.8.0_73/jre/lib/amd64"/>
@@ -15,7 +15,7 @@
     <property name="sun.os.patch.level" value="unknown"/>
     <property name="test" value="superkey.keychain.KeyEntryComparatorTest"/>
     <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
-    <property name="user.dir" value="/home/catarina/NetBeansProjects/SuperKey2"/>
+    <property name="user.dir" value="/home/catarina/Área de Trabalho/TQS-master"/>
     <property name="java.runtime.version" value="1.8.0_73-b02"/>
     <property name="java.awt.graphicsenv" value="sun.awt.X11GraphicsEnvironment"/>
     <property name="java.endorsed.dirs" value="/home/catarina/jdk1.8.0_73/jre/lib/endorsed"/>
@@ -61,5 +61,5 @@
     <property name="sun.desktop" value="gnome"/>
     <property name="sun.cpu.isalist" value=""/>
   </properties>
-  <testcase classname="superkey.keychain.KeyEntryComparatorTest" name="testCompare" time="0.03"/>
+  <testcase classname="superkey.keychain.KeyEntryComparatorTest" name="testCompare" time="0.165"/>
 </testsuite>
